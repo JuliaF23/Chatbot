@@ -1,0 +1,1603 @@
+{
+  "intents": [
+    {
+      "intent": "boleto",
+      "examples": [
+        {
+          "text": "boleto"
+        },
+        {
+          "text": "Boleto segunda via"
+        },
+        {
+          "text": "Como consigo um novo boleto"
+        },
+        {
+          "text": "Como fazer a emissão da segunda via do boleto?"
+        },
+        {
+          "text": "Emissão segunda via"
+        },
+        {
+          "text": "Emissão segunda via do boleto"
+        },
+        {
+          "text": "Novo boleto"
+        },
+        {
+          "text": "Perdi meu boleto, quero um novo"
+        },
+        {
+          "text": "Quero emitir um novo boleto"
+        },
+        {
+          "text": "Quero imprimir um novo boleto"
+        },
+        {
+          "text": "segunda via"
+        },
+        {
+          "text": "Segunda via do boleto"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "duvida_cadastro",
+      "examples": [
+        {
+          "text": "Cadastro foto"
+        },
+        {
+          "text": "Como devo posicionar a câmera para tirar a foto de cadastro"
+        },
+        {
+          "text": "Como devo tirar a foto de RG"
+        },
+        {
+          "text": "Como tirar a foto de cadastro?"
+        },
+        {
+          "text": "Foto com o RG"
+        },
+        {
+          "text": "foto de cadastro"
+        },
+        {
+          "text": "Foto de cadastro com rg"
+        },
+        {
+          "text": "Foto RG."
+        },
+        {
+          "text": "O que preciso fazer para tirar a foto de cadastro?"
+        },
+        {
+          "text": "Qual é a forma correta de fotografar com o rg"
+        },
+        {
+          "text": "Qual é o procedimento para tirar a foto de cadastro?"
+        },
+        {
+          "text": "Tenho dúvida sobre a foto de cadastro"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "encerrar_seguro",
+      "examples": [
+        {
+          "text": "Como faço para encerrar o meu seguro?"
+        },
+        {
+          "text": "Como posso dar fim ao meu seguro?"
+        },
+        {
+          "text": "Como que encerra o meu seguro?"
+        },
+        {
+          "text": "Encerrar seguro"
+        },
+        {
+          "text": "Eu quero encerrar o meu seguro"
+        },
+        {
+          "text": "Existe algum processo específico para cancelar o meu seguro?"
+        },
+        {
+          "text": "Gostaria de saber como terminar o meu seguro. O que devo fazer?"
+        },
+        {
+          "text": "Preciso de orientação sobre como encerrar o meu seguro."
+        },
+        {
+          "text": "Quais são as etapas para encerrar o contrato do meu seguro?"
+        },
+        {
+          "text": "Qual é o procedimento para cancelar o meu seguro?"
+        },
+        {
+          "text": "Quero cancelar o meu seguro. O que eu faço?"
+        },
+        {
+          "text": "Quero encerrar o meu seguro"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "erro_qrcode",
+      "examples": [
+        {
+          "text": "Como usar o qr code?"
+        },
+        {
+          "text": "erro no meu qrcode"
+        },
+        {
+          "text": "estou com problemas para ler meu QR Code"
+        },
+        {
+          "text": "estou tendo dificuldades com o meu qr code."
+        },
+        {
+          "text": "Falha qrcode."
+        },
+        {
+          "text": "meu qrCode nao esta sendo reconhecido"
+        },
+        {
+          "text": "Meu QR Code não tá indo."
+        },
+        {
+          "text": "Não consigo acessar o QR Code do seguro de bike"
+        },
+        {
+          "text": "Não estou conseguindo utilizar o QR Code"
+        },
+        {
+          "text": "O QR Code não está funcionando para mim"
+        },
+        {
+          "text": "O qrcode não está sendo lido corretamente."
+        },
+        {
+          "text": "O QR Code não está sendo processado"
+        },
+        {
+          "text": "problema no QRcode"
+        },
+        {
+          "text": "qr code problema"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "erro_vistoria",
+      "examples": [
+        {
+          "text": "Erro na minha vistoria"
+        },
+        {
+          "text": "Erro na vistoria da minha bicicleta"
+        },
+        {
+          "text": "Erro na vistoria da minha bike"
+        },
+        {
+          "text": "Erro vistoria"
+        },
+        {
+          "text": "Erro vistoria bicicleta"
+        },
+        {
+          "text": "Erro vistoria bike."
+        },
+        {
+          "text": "Minha vistoria deu erro"
+        },
+        {
+          "text": "O que causou o erro na vistoria da minha bike"
+        },
+        {
+          "text": "O que levou a falha na vistoria da minha bicicleta"
+        },
+        {
+          "text": "Porque deu erro na minha vistoria?"
+        },
+        {
+          "text": "Porque deu erro na vistoria da minha bicicleta?"
+        },
+        {
+          "text": "Porque deu erro na vistoria da minha bike?"
+        },
+        {
+          "text": "Qual foi o motivo do erro na vistoria da minha bicicleta?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "fazer_seguro",
+      "examples": [
+        {
+          "text": "Como eu adquiro um seguro para minha bicicleta?"
+        },
+        {
+          "text": "Como faço um plano?"
+        },
+        {
+          "text": "Como faço um plano para minha bicicleta?"
+        },
+        {
+          "text": "Como faço um plano para minha bike?"
+        },
+        {
+          "text": "Como fazer seguro pra minha bike?"
+        },
+        {
+          "text": "Contratação seguro bicicleta."
+        },
+        {
+          "text": "Contratação seguro bike"
+        },
+        {
+          "text": "Fazer seguro bicicleta"
+        },
+        {
+          "text": "Fazer seguro bike"
+        },
+        {
+          "text": "Fazer um seguro para minha bicicleta"
+        },
+        {
+          "text": "Gostaria de fazer um seguro para minha bike"
+        },
+        {
+          "text": "Quero fazer um seguro para minha bike"
+        },
+        {
+          "text": "Quero fazer um seguro pra minha bicicleta"
+        },
+        {
+          "text": "Seguro bicicleta"
+        },
+        {
+          "text": "Seguro bike."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "localizacao",
+      "examples": [
+        {
+          "text": "A minha cidade é coberta pelo seguro?"
+        },
+        {
+          "text": "A minha cidade está contemplada na apólice do seguro?"
+        },
+        {
+          "text": "A minha cidade está dentro da área de cobertura do seguro?"
+        },
+        {
+          "text": "Aonde o seguro de bicicleta cobre?"
+        },
+        {
+          "text": "Minha cidade está incluída na cobertura do seguro?"
+        },
+        {
+          "text": "Moro em Salvador, o seguro cobre?"
+        },
+        {
+          "text": "o plano atende aonde eu moro?"
+        },
+        {
+          "text": "O seguro abrange a minha cidade?"
+        },
+        {
+          "text": "O seguro cobre minha cidade?"
+        },
+        {
+          "text": "O seguro cobre onde moro?"
+        },
+        {
+          "text": "O seguro de bike cobre todo o país?"
+        },
+        {
+          "text": "O seguro de bike, tem restrição de local?"
+        },
+        {
+          "text": "O seguro se aplica aonde eu moro?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "mudar_plano",
+      "examples": [
+        {
+          "text": "Como mudar o plano da minha bicicleta?"
+        },
+        {
+          "text": "Desejo mudar meu plano de assinatura de bicicleta"
+        },
+        {
+          "text": "Gostaria de alterar meu plano de bicicleta."
+        },
+        {
+          "text": "Gostaria de mudar o plano da bike."
+        },
+        {
+          "text": "Mudar plano bicicleta"
+        },
+        {
+          "text": "Mudar plano bike"
+        },
+        {
+          "text": "Não quero mais o plano da minha bike."
+        },
+        {
+          "text": "Preciso fazer uma mudança no meu plano de bike"
+        },
+        {
+          "text": "Pretendo modificar o plano da minha bike"
+        },
+        {
+          "text": "Quero fazer uma atualização no meu plano de bicicleta."
+        },
+        {
+          "text": "Quero mudar meu plano da bicicleta"
+        },
+        {
+          "text": "Quero mudar o plano da minha bike."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "numero_serie",
+      "examples": [
+        {
+          "text": "Em qual parte da bicicleta está o número de série?"
+        },
+        {
+          "text": "Local do número de serie da bike"
+        },
+        {
+          "text": "Não estou achando o número de série"
+        },
+        {
+          "text": "Numero de serie bicicleta"
+        },
+        {
+          "text": "Numero serie bike"
+        },
+        {
+          "text": "Onde está a marcação do número de série da bike"
+        },
+        {
+          "text": "Onde fica gravado o número de série da bike?"
+        },
+        {
+          "text": "Onde fica o número de série da bicicleta?"
+        },
+        {
+          "text": "Onde fica o número de série da bike?"
+        },
+        {
+          "text": "Onde posso encontrar o número de série da bicicleta?"
+        },
+        {
+          "text": "o numero de serie da bicicleta esta em que lugar"
+        },
+        {
+          "text": "Qual é a posicao do número de serie na bicicleta?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "saudacao",
+      "examples": [
+        {
+          "text": "Boa noite"
+        },
+        {
+          "text": "Boa tarde"
+        },
+        {
+          "text": "Bom dia"
+        },
+        {
+          "text": "E ai!"
+        },
+        {
+          "text": "Eai"
+        },
+        {
+          "text": "Oi, boa noite!"
+        },
+        {
+          "text": "Oi, boa tarde!"
+        },
+        {
+          "text": "Oi, bom dia!"
+        },
+        {
+          "text": "Olá"
+        },
+        {
+          "text": "Olá, como vai?"
+        },
+        {
+          "text": "Olá, tudo bem?"
+        },
+        {
+          "text": "Salve"
+        },
+        {
+          "text": "Tudo bem?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "tchau",
+      "examples": [
+        {
+          "text": "Apenas isso"
+        },
+        {
+          "text": "até mais"
+        },
+        {
+          "text": "Obrigada pela ajuda"
+        },
+        {
+          "text": "ok"
+        },
+        {
+          "text": "Ok!"
+        },
+        {
+          "text": "Ok, obrigada"
+        },
+        {
+          "text": "Ok!Obrigado!"
+        },
+        {
+          "text": "Ok! valeu"
+        },
+        {
+          "text": "só isso"
+        },
+        {
+          "text": "Tchau"
+        },
+        {
+          "text": "Tchau, obrigada"
+        },
+        {
+          "text": "Tchau, obrigado!"
+        },
+        {
+          "text": "Valeu"
+        },
+        {
+          "text": "Valeu pela ajuda."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "vistoria",
+      "examples": [
+        {
+          "text": "Como devo proceder para realizar uma avaliação?"
+        },
+        {
+          "text": "Como eu faço uma vistoria?"
+        },
+        {
+          "text": "Como fazer uma vistoria?"
+        },
+        {
+          "text": "Como fazer vistoria?"
+        },
+        {
+          "text": "Como posso fazer uma análise completa?"
+        },
+        {
+          "text": "Fazer vistoria bicicleta"
+        },
+        {
+          "text": "Fazer vistoria bike"
+        },
+        {
+          "text": "Qual é o procedimento para realizar uma inspeção?"
+        },
+        {
+          "text": "Vistoria"
+        },
+        {
+          "text": "Vistoria bicicleta"
+        },
+        {
+          "text": "Vistoria bicicleta, como fazer?"
+        },
+        {
+          "text": "Vistoria bike"
+        },
+        {
+          "text": "Vistoria bike, como fazer"
+        },
+        {
+          "text": "Vistoria da minha bicicleta."
+        },
+        {
+          "text": "Vistoria da minha bike."
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "vistoria_presencial",
+      "examples": [
+        {
+          "text": "Desejo fazer a vistoria da minha bike pessoalmente."
+        },
+        {
+          "text": "É permitido que eu esteja presente na vistoria?"
+        },
+        {
+          "text": "É possível realizar a vistoria de forma presencial?"
+        },
+        {
+          "text": "Não to conseguindo fazer a vistoria, como fazer presencial?"
+        },
+        {
+          "text": "Posso fazer a vistoria pessoalmente?"
+        },
+        {
+          "text": "Prefiro realizar a vistoria da minha bike de forma presencial."
+        },
+        {
+          "text": "Quero agendar uma visita para a vistoria da minha bicicleta"
+        },
+        {
+          "text": "Quero fazer a vistoria da minha bicicleta pessoalmente"
+        },
+        {
+          "text": "Quero fazer a vistoria da minha bike presencial."
+        },
+        {
+          "text": "Quero fazer vistoria presencial"
+        },
+        {
+          "text": "Tem como fazer a vistoria da bike presencialmente?"
+        },
+        {
+          "text": "Vistoria da bicicleta presencial"
+        },
+        {
+          "text": "Vistoria da bike presencial"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "cidade",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Bahia",
+          "synonyms": [
+            "BA"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Belo Horizonte",
+          "synonyms": [
+            "BH"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Goiânia",
+          "synonyms": [
+            "GO"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Mato Grosso",
+          "synonyms": [
+            "MT"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Rio de Janeiro",
+          "synonyms": [
+            "RJ"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Salvador",
+          "synonyms": [
+            "ssa"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Santa Catarina",
+          "synonyms": [
+            "SC"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "São José dos Campos",
+          "synonyms": [
+            "SJC"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "São Paulo",
+          "synonyms": [
+            "Sampa",
+            "SP"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "date",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "01 de novembro",
+          "synonyms": [
+            "um de novembro"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "20-09-22",
+          "synonyms": [
+            "02-8-23"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "23/07",
+          "synonyms": [
+            "08-9"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "23/08/2023",
+          "synonyms": [
+            "30/05/22"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "agora",
+          "synonyms": [
+            "neste dia"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "hoje",
+          "synonyms": [
+            "neste dia"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Sexta-feira",
+          "synonyms": [
+            "Sexta"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "email",
+      "values": [
+        {
+          "type": "patterns",
+          "value": "email",
+          "patterns": [
+            "\\b[A-Za-z0-9._%+-]+@([A-Za-z0-9]+\\.)+[A-Za-z]{2,}\\b"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "number",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "15",
+          "synonyms": [
+            "13"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "2",
+          "synonyms": [
+            "02"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "21",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "30",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "30,50",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "3,14",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "5",
+          "synonyms": [
+            "05"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "dez",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "trinta",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "vinte",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "saudacao",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Boa noite",
+          "synonyms": [
+            "noite"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Boa tarde",
+          "synonyms": [
+            "tarde"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Bom dia",
+          "synonyms": [
+            "dia"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Oi",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Olá",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sim_nao",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "nao",
+          "synonyms": [
+            "n",
+            "Não"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Sim",
+          "synonyms": [
+            "s",
+            "sim"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-date",
+      "values": []
+    },
+    {
+      "entity": "sys-number",
+      "values": []
+    },
+    {
+      "entity": "sys-time",
+      "values": []
+    },
+    {
+      "entity": "time",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "10 da noite",
+          "synonyms": [
+            "22:00"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "12:00 horas",
+          "synonyms": [
+            "meio-dia"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "agora",
+          "synonyms": [
+            "nesse momento"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "ás 10",
+          "synonyms": [
+            "10 horas"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "ás 14:10",
+          "synonyms": [
+            "14:10"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "ás 9 da manhã",
+          "synonyms": [
+            "9 da matina"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "de 17:00",
+          "synonyms": [
+            "17:00"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Bem-vindo",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Olá. Como posso te ajudar?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Bem-vindo"
+    },
+    {
+      "type": "standard",
+      "title": "Em outros casos",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Eu não entendi. Você pode tentar reformular a frase."
+              },
+              {
+                "text": "Você pode reformular sua afirmação? Eu não estou entendendo."
+              },
+              {
+                "text": "Eu não entendi o sentido."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Em outros casos",
+      "previous_sibling": "node_1_1683404259808",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_7_1683403130188",
+      "context": {
+        "cidade": "@cidade"
+      },
+      "conditions": "@cidade",
+      "event_name": "input",
+      "dialog_node": "handler_10_1683403130217"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Digite o número de tentativas:"
+              }
+            ],
+            "response_type": "text"
+          }
+        ]
+      },
+      "parent": "slot_8_1683400525898",
+      "event_name": "focus",
+      "dialog_node": "handler_1_1683400525898",
+      "previous_sibling": "handler_8_1683400525898"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_3_1683670075394",
+      "context": {
+        "numero": "@sys-number"
+      },
+      "conditions": "@sys-number",
+      "event_name": "input",
+      "dialog_node": "handler_1_1683670075434"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_2_1683400059181",
+      "context": {
+        "data": "@sys-date"
+      },
+      "conditions": "@sys-date",
+      "event_name": "input",
+      "dialog_node": "handler_2_1683400059193"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_8_1683400242812",
+      "context": {
+        "hora": "@sys-time"
+      },
+      "conditions": "@sys-time",
+      "event_name": "input",
+      "dialog_node": "handler_4_1683400242813"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Insira seu email para envio da segunda via:"
+              }
+            ],
+            "response_type": "text"
+          }
+        ]
+      },
+      "parent": "slot_3_1683670240268",
+      "event_name": "focus",
+      "dialog_node": "handler_5_1683670240272",
+      "previous_sibling": "handler_8_1683670240272"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Um possível erro que pode interferir na sua vistoria são fotos e vídeos antigos, aceitamos apenas fotos/vídeos em tempo real. Informe algumas informações para deixar registrado no seu login, em caso de necessidade. Primeiro digite a data da tentativa:"
+              }
+            ],
+            "response_type": "text"
+          }
+        ]
+      },
+      "parent": "slot_2_1683400059181",
+      "event_name": "focus",
+      "dialog_node": "handler_6_1683400059193",
+      "previous_sibling": "handler_2_1683400059193"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Certo $data, que horas?"
+              }
+            ],
+            "response_type": "text"
+          }
+        ]
+      },
+      "parent": "slot_8_1683400242812",
+      "event_name": "focus",
+      "dialog_node": "handler_7_1683400242813",
+      "previous_sibling": "handler_4_1683400242813"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Em que estado você mora?"
+              }
+            ],
+            "response_type": "text"
+          }
+        ]
+      },
+      "parent": "slot_7_1683403130188",
+      "event_name": "focus",
+      "dialog_node": "handler_7_1683403130217",
+      "previous_sibling": "handler_10_1683403130217"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_8_1683400525898",
+      "context": {
+        "numero": "@sys-number"
+      },
+      "conditions": "@sys-number",
+      "event_name": "input",
+      "dialog_node": "handler_8_1683400525898"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Para emissão de segunda via de boleto, é necessário inserir seu CPF para consulta:"
+              }
+            ],
+            "response_type": "text"
+          }
+        ]
+      },
+      "parent": "slot_3_1683670075394",
+      "event_name": "focus",
+      "dialog_node": "handler_8_1683670075434",
+      "previous_sibling": "handler_1_1683670075434"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_3_1683670240268",
+      "context": {
+        "email": "@email"
+      },
+      "conditions": "@email",
+      "event_name": "input",
+      "dialog_node": "handler_8_1683670240272"
+    },
+    {
+      "type": "standard",
+      "title": "ZerarVariaveis",
+      "parent": "node_7_1683399973703",
+      "context": {
+        "data": null,
+        "hora": null,
+        "numero": null
+      },
+      "conditions": "false",
+      "dialog_node": "node_1_1683400875994"
+    },
+    {
+      "type": "standard",
+      "title": "Tchau",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Posso te ajudar em algo mais?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#tchau",
+      "dialog_node": "node_1_1683404259808",
+      "previous_sibling": "node_3_1683669992573"
+    },
+    {
+      "type": "standard",
+      "title": "FazerSeguro",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Contratar seguro para sua bike/bicicleta, é fácil.  Apenas acesse nossa página web, “Menu” e selecione a opção “Seguro Bike”."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#fazer_seguro",
+      "dialog_node": "node_2_1683402645533",
+      "previous_sibling": "node_8_1683399718190"
+    },
+    {
+      "type": "standard",
+      "title": "Mudar plano",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Para mudar de plano é preciso apenas fazer o login no nosso site, entrar no seu perfil, “Plano” e “Alterar plano”. Depois da solicitação feita, apenas aguardar a verificação."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#mudar_plano",
+      "dialog_node": "node_2_1683403683646",
+      "previous_sibling": "node_7_1683403067930"
+    },
+    {
+      "type": "standard",
+      "title": "Dúvida Cadastro",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Para tirar a foto de cadastro, siga as instruções a seguir:\n1. Você deve ter como fundo uma parede lisa, sem reflexos de sombras;\n2. Posicione o RG ao lado do rosto de maneira legível;\n3. Tire a foto e verifique a imagem, conferindo se todas as informações estão legíveis e nítidas."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#duvida_cadastro",
+      "dialog_node": "node_3_1683402730553",
+      "previous_sibling": "node_2_1683402645533"
+    },
+    {
+      "type": "standard",
+      "title": "Vistoria presencial",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A contratação de seguros para bikes é 100% online, não realizamos vistorias presencial. Em caso de erro, verificar se as fotos e vídeos são em tempo real."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#vistoria_presencial",
+      "dialog_node": "node_3_1683403026721",
+      "previous_sibling": "node_7_1683399973703"
+    },
+    {
+      "type": "frame",
+      "title": "Segunda via",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#boleto",
+      "dialog_node": "node_3_1683669992573",
+      "previous_sibling": "node_3_1684534710954"
+    },
+    {
+      "type": "standard",
+      "title": "Encerrar seguro",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Para encerrar o seu seguro, basta ir na nossa página, fazer login na sua conta, \"Plano\" e fazer solicitação para cancelamento de seguro."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#encerrar_seguro",
+      "dialog_node": "node_3_1684534710954",
+      "previous_sibling": "node_2_1683403683646"
+    },
+    {
+      "type": "frame",
+      "title": "ErroVistoria",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1683400875994"
+      },
+      "conditions": "#erro_vistoria",
+      "dialog_node": "node_7_1683399973703",
+      "previous_sibling": "node_8_1683402976523"
+    },
+    {
+      "type": "standard",
+      "title": "Número de série",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "O número de série de uma bicicleta pode ser encontrado em diferentes locais, dependendo do modelo e do fabricante. Alguns dos locais mais comuns são:\n1. Abaixo do movimento central;\n2. Dentro da caixa de direção;\n3. No tubo do selim (do quadro);\n4. Por baixo do conjunto pedaleiro."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#numero_serie",
+      "dialog_node": "node_7_1683402806721",
+      "previous_sibling": "node_3_1683402730553"
+    },
+    {
+      "type": "standard",
+      "title": "Erro no QR Code",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Utilizar o QR Code é fácil, apenas aponte a câmera do seu celular e encanei. Porém segue o link de acesso: https://www........."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#erro_qrcode",
+      "dialog_node": "node_7_1683402883141",
+      "previous_sibling": "node_7_1683402806721"
+    },
+    {
+      "type": "frame",
+      "title": "Localização",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#localizacao",
+      "dialog_node": "node_7_1683403067930",
+      "previous_sibling": "node_3_1683403026721"
+    },
+    {
+      "type": "standard",
+      "title": "Saudação",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#saudacao",
+      "dialog_node": "node_8_1683399718190",
+      "previous_sibling": "Bem-vindo"
+    },
+    {
+      "type": "standard",
+      "title": "Vistoria",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Realizar uma vistoria é fácil, você deve apenas apontar a câmera do seu celular para sua bike e tirar fotos ou vídeos em tempo real. Etapa realizada no momento da contratação."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#vistoria",
+      "dialog_node": "node_8_1683402976523",
+      "previous_sibling": "node_7_1683402883141"
+    },
+    {
+      "type": "standard",
+      "title": "Sim",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No que posso te ajudar?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1683404259808",
+      "conditions": "@sim_nao:Sim",
+      "dialog_node": "node_8_1684417699603"
+    },
+    {
+      "type": "standard",
+      "title": "Não",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tenha um ótimo dia. Até mais."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1683404259808",
+      "conditions": "@sim_nao:nao",
+      "dialog_node": "node_9_1684417940810",
+      "previous_sibling": "node_8_1684417699603"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Trabalhamos com planos em todo território nacional, incluindo $cidade "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1683403067930",
+      "context": {
+        "true": "Trabalhamos com planos em todo território nacional, incluindo $cidade\""
+      },
+      "conditions": "true",
+      "dialog_node": "response_1_1683403520280"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Solicitação completa."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1683669992573",
+      "conditions": "true",
+      "dialog_node": "response_3_1683670074796",
+      "previous_sibling": "slot_3_1683670240268"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "@saudacao, para você também. Como posso te ajudar?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1683399718190",
+      "conditions": "@saudacao",
+      "dialog_node": "response_5_1683399800875"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Eai! Como eu posso te ajudar?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1683399718190",
+      "conditions": "anything_else",
+      "dialog_node": "response_7_1683399878882",
+      "previous_sibling": "response_5_1683399800875"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ok! Tentativa de vistoria: $data, ás $hora,  $numero tentativa(s). Registrado!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1683399973703",
+      "conditions": "true",
+      "dialog_node": "response_7_1683400058531",
+      "previous_sibling": "slot_8_1683400525898"
+    },
+    {
+      "type": "slot",
+      "parent": "node_7_1683399973703",
+      "variable": "$data",
+      "dialog_node": "slot_2_1683400059181",
+      "previous_sibling": "node_1_1683400875994"
+    },
+    {
+      "type": "slot",
+      "parent": "node_3_1683669992573",
+      "variable": "$numero",
+      "dialog_node": "slot_3_1683670075394"
+    },
+    {
+      "type": "slot",
+      "parent": "node_3_1683669992573",
+      "variable": "$email",
+      "dialog_node": "slot_3_1683670240268",
+      "previous_sibling": "slot_3_1683670075394"
+    },
+    {
+      "type": "slot",
+      "parent": "node_7_1683403067930",
+      "variable": "$cidade",
+      "dialog_node": "slot_7_1683403130188",
+      "previous_sibling": "response_1_1683403520280"
+    },
+    {
+      "type": "slot",
+      "parent": "node_7_1683399973703",
+      "variable": "$hora",
+      "dialog_node": "slot_8_1683400242812",
+      "previous_sibling": "slot_2_1683400059181"
+    },
+    {
+      "type": "slot",
+      "parent": "node_7_1683399973703",
+      "variable": "$numero",
+      "dialog_node": "slot_8_1683400525898",
+      "previous_sibling": "slot_8_1683400242812"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "disambiguation": {
+      "prompt": "Você quis dizer:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "Nenhuma das anteriores",
+      "use_connect_to_support_prompt": "Connect to support",
+      "single_answer_clarification_prompt": "Something else"
+    },
+    "human_agent_assist": {
+      "prompt": "Você quis dizer:"
+    }
+  },
+  "learning_opt_out": false,
+  "language": "pt-br",
+  "description": "Bot para tirar dúvidas dos clientes da Porto Seguro",
+  "name": "Challenge-dialog"
+}
