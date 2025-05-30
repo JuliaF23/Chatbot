@@ -9,7 +9,8 @@ If the question is more specific, such as “I live in Salvador, does the insura
 In this case, the chat uses a context variable, storing the user’s input and displaying it back. This helps answer another question and speeds up the process.
 
 
-
+</br>
+</br>
 
 ## ChatBot
 
